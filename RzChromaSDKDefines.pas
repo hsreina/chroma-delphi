@@ -1,0 +1,94 @@
+unit RzChromaSDKDefines;
+
+interface
+
+const
+
+  // Keyboards
+  //! Razer Blackwidow Chroma device.
+  BLACKWIDOW_CHROMA: TGUID = '{2EA1BB63-CA28-428D-9F06-196B88330BBB}';
+
+  //! Razer Blackwidow Chroma Tournament Edition device.
+  BLACKWIDOW_CHROMA_TE: TGUID = '{ED1C1B82-BFBE-418F-B49D-D03F05B149DF}';
+
+  //! Razer Deathstalker device.
+  DEATHSTALKER_CHROMA: TGUID = '{18C5AD9B-4326-4828-92C4-2669A66D2283}';
+
+  //! Overwatch Keyboard.
+  OVERWATCH_KEYBOARD: TGUID = '{872AB2A9-7959-4478-9FED-15F6186E72E4}';
+  
+  //! Razer Blackwidow X Chroma device.
+  BLACKWIDOW_X_CHROMA: TGUID = '{5AF60076-ADE9-43D4-B574-52599293B554}';
+
+  //! Razer Blackwidow X TE Chroma device.
+  BLACKWIDOW_X_TE_CHROMA: TGUID = '{2D84DD51-3290-4AAC-9A89-D8AFDE38B57C}';
+
+  //! Razer Ornata Chroma
+  ORNATA_CHROMA: TGUID = '{803378C1-CC48-4970-8539-D828CC1D420A}';
+
+  //! Razer Blade Stealth.
+  BLADE_STEALTH: TGUID = '{C83BDFE8-E7FC-40E0-99DB-872E23F19891}';
+
+  //! Razer Blade
+  BLADE: TGUID = '{F2BEDFAF-A0FE-4651-9D41-B6CE603A3DDD}';
+
+
+  // Mice
+  //! Razer Deathadder Chroma device.
+  DEATHADDER_CHROMA: TGUID = '{AEC50D91-B1F1-452F-8E16-7B73F376FDF3}';
+
+  //! Razer Mamba Chroma Tournament Edition device.
+  MAMBA_CHROMA_TE: TGUID = '{7EC00450-E0EE-4289-89D5-0D879C19061A}';
+
+  //! Razer Diamondback device.
+  DIAMONDBACK_CHROMA: TGUID =  '{FF8A5929-4512-4257-8D59-C647BF9935D0}';
+
+  //! Razer Mamba device.
+  MAMBA_CHROMA: TGUID = '{D527CBDC-EB0A-483A-9E89-66D50463EC6C}';
+
+  //! Razer Naga Epic device.
+  NAGA_EPIC_CHROMA: TGUID =  '{D714C50B-7158-4368-B99C-601ACB985E98}';
+
+  //! Razer Naga device.
+  NAGA_CHROMA: TGUID = '{F1876328-6CA4-46AE-BE04-BE812B414433}';
+
+  //! Razer Orochi Chroma device.
+  OROCHI_CHROMA: TGUID =  '{52C15681-4ECE-4DD9-8A52-A1418459EB34}';
+
+  //! Razer Naga Hex Chroma device.
+  NAGA_HEX_CHROMA: TGUID = '{195D70F5-F285-4CFF-99F2-B8C0E9658DB4}';
+
+
+  // Headsets
+  //! Razer Kraken 7.1 Chroma device.
+  KRAKEN71_CHROMA: TGUID = '{CD1E09A5-D5E6-4A6C-A93B-E6D9BF1D2092}';
+
+  //! Razer ManO'War device.
+  MANOWAR_CHROMA: TGUID = '{DF3164D7-5408-4A0E-8A7F-A7412F26BEBF}';
+
+
+  // Mouse mat
+  //! Razer Firefly device.
+  FIREFLY_CHROMA: TGUID = '{80F95A94-73D2-48CA-AE9A-0986789A9AF2}';
+
+
+  // Keypads
+  //! Razer Tartarus device.
+  TARTARUS_CHROMA: TGUID = '{00F0545C-E180-4AD1-8E8A-419061CE505E}';
+
+  //! Razer Orbweaver device.
+  ORBWEAVER_CHROMA: TGUID = '{9D24B0AB-0162-466C-9640-7A924AA4D9FD}';
+
+
+  // Systems
+  LENOVO_Y900: TGUID = '{35F6F18D-1AE5-436C-A575-AB44A127903A}';
+
+  LENOVO_Y27: TGUID = '{47DB1FA7-6B9B-4EE6-B6F4-4071A3B2053B}';
+
+
+  // Accessories
+  CORE_CHROMA: TGUID = '{0201203B-62F3-4C50-83DD-598BABD208E0}';
+
+implementation
+
+end.
